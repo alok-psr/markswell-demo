@@ -32,6 +32,9 @@ export const personality = {
 };
 export const helpPoints = ['Clear concepts, taught step by step', 'A welcoming place to ask questions', 'Practice habits that students can keep', 'Encouragement for progress, big or small'];
 export const gallery = [
-  { src: '/media/gallery-1.svg', alt: 'Placeholder for a classroom activity photo' }, { src: '/media/gallery-2.svg', alt: 'Placeholder for a study session photo' }, { src: '/media/gallery-3.svg', alt: 'Placeholder for a learning space photo' }, { src: '/media/gallery-4.svg', alt: 'Placeholder for a student work photo' },
+  { src: '/media/gallery1.png', alt: 'Students working independently in a classroom', caption: 'Focused practice, one step at a time.' },
+  { src: '/media/gallery2.png', alt: 'Students collaborating over their schoolwork', caption: 'Learning is better with questions.' },
+  { src: '/media/gallery3.png', alt: 'Teacher explaining a maths problem to a class', caption: 'Concepts made clear on the board.' },
+  { src: '/media/gallery4.png', alt: 'Teacher supporting students during a classroom activity', caption: 'Guidance when it matters most.' },
 ];
 export const faqs = [{ q: 'How can I book a demo class?', a: 'Use the enquiry form, WhatsApp, or call us. We will confirm a suitable time.' }, { q: 'Which classes do you teach?', a: 'We offer support for Classes 1–12. See the Classes page for subjects and temporary batch timings.' }, { q: 'What should my child bring to a demo?', a: 'Bring a notebook, a recent school worksheet if you have one, and any questions you would like to discuss.' }];
