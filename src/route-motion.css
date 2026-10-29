@@ -1,0 +1,4 @@
+.route-page{animation:route-in .35s ease-out}
+@keyframes route-in{from{opacity:.2;transform:translateY(7px)}to{opacity:1;transform:none}}
+
+@media (prefers-reduced-motion:reduce){.route-page{animation:none}}
